@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+---------------------------------------------------------------
+---------------------------- HITO 4 ---------------------------
+---------------------------------------------------------------
+---------------------------------------------------------------
+Para el Hito 4 hemos decidido hacer un pequeño proyecto de IA en el que implementar
+algunas de las tareas que no pudimos realizar en el resto de hitos, así como corregir o mejorar
+algunas de las entregadas.
+
+SE ENTREGAN EN EL HITO 4
+
+- Pathfinding jerárquico corregido, separado del resto del "nuevo proyecto". [Carpeta  > Entregable Jerarquico]
+- Nuevo proyecto de IA con pathfinding táctico, jerárquico, sensores, debug visual de la IA y algo de level of Detail (explicado documentación).[Carpeta > ProyectoIA]
+- Entregable de Red anterior con un nivel básico de debug visual en el que se muestran los paquetes que se envian así como tiempo transcurrido. [Carpeta > Entregable Red]
+- Vídeos que muestran las funciones principales de los entregables. [Carpeta > Videos]
+- Documentación del Hito 4
